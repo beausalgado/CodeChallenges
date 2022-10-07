@@ -1,3 +1,5 @@
+// create factorial with a for loop
+
 function FirstFactorial(num) { 
 
     let factorialArray = []

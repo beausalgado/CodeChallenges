@@ -1,3 +1,5 @@
+// reverse a string exactly 
+
 function FirstReverse(str) { 
 
     let reverse = "";

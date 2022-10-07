@@ -1,3 +1,5 @@
+// create factorial with recursion 
+
 function FirstFactorial(num) { 
 
     let sum = num;
